@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Hossein Seifoory" # Website name
-baseurl: 'hosseinberg.github.io' # Website URL
+baseurl: "https://hosseinberg.github.io" # Website URL
 copyright: 'hosseinberg.netlify.app' # Footer text, e.g. '© {year} Me'
 
 ############################
