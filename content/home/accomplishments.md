@@ -23,6 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://courses.edx.org/certificates/d53db09d03f346d49dc12c1b1c310676
+  date_end: "2021-07-10"
+  date_start: "2021-04-27"
+  description: ""
+  organization: mitx
+  organization_url: https://www.edx.org/school/mitx
+  title: Photonic Integrated Circuits 1
+  url: https://www.edx.org
+- certificate_url: https://courses.edx.org/certificates/a41e7a07756f4b318ee89f8bebdb8b61
+  date_end: "2020-11-10"
+  date_start: "2020-10-01"
+  description: ""
+  organization: edX
+  organization_url: https://www.edx.org
+  title: Phot1x - Silicon Photonics Design, Fabrication and Data Analysis
+  url: https://www.edx.org  
+- certificate_url: https://edu.lumerical.com/certificates/53eaaf2c3c67448f8141c5312e731d5e
+  date_end: "2021-07-05"
+  date_start: "2021-07-01"
+  description: ""
+  organization: Ansys
+  organization_url: https://www.ansys.com/
+  title: S 100 - Scripting Course
+  url: https://www.ansys.com/
 - certificate_url: https://edu.lumerical.com/certificates/75385babaaf44c8f87fbaa798b76d9bf
   date_end: "2021-04-04"
   date_start: "2021-03-01"
@@ -39,14 +63,6 @@ item:
   organization_url: https://www.ansys.com/
   title: FDE 100 - FDE Solver Course
   url: https://www.ansys.com/  
-- certificate_url: https://courses.edx.org/certificates/a41e7a07756f4b318ee89f8bebdb8b61
-  date_end: "2020-11-10"
-  date_start: "2021-10-01"
-  description: ""
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Phot1x - Silicon Photonics Design, Fabrication and Data Analysis
-  url: https://www.edx.org
 design:
   columns: '2' 
 ---
